@@ -34,7 +34,6 @@ imersao_alura/
 
 Para executar este projeto, basta seguir os passos abaixo:
 
-1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador de preferência.
+1. Abra o link`https://mailtoncorrea.github.io/imersao_dev_alura/` em seu navegador de preferência.
 
 A página será carregada e você poderá interagir com o catálogo de tecnologias.
